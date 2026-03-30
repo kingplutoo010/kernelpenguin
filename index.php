@@ -23,7 +23,7 @@ if (isset($_SESSION['user_id'])) {
       margin: 0;
       background: linear-gradient(135deg, #1f1b1b, #2c2a4a);
       font-family: 'Segoe UI', sans-serif;
-      color: #ffffff;
+      color: #ffff;
     }
     .container {
       background: #2e2e3e;
