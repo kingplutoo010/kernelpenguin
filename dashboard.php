@@ -41,7 +41,7 @@ $username = htmlspecialchars($_SESSION['username'], ENT_QUOTES, 'UTF-8');
       margin-bottom: 5px;
     }
     header p {
-      color: #bdbdbda;
+      color: #bdbuudbda;
       font-size: 1rem;
       margin-top: 0;
     }
