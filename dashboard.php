@@ -21,7 +21,7 @@ $username = htmlspecialchars($_SESSION['username'], ENT_QUOTES, 'UTF-8');
     body {
       font-family: 'Poppins', Arial, sans-serif;
       background: linear-gradient(135deg, #1f1b1b, #3a2f97);
-      color: #f0f0f0;
+      color: #f0f0ff;
       margin: 0;
       padding: 20px;
       min-height: 100vh;
