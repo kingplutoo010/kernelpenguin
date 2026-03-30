@@ -29,7 +29,7 @@
         body {
             font-family: 'Poppins', sans-serif;
             background: linear-gradient(135deg, var(--bg-start), var(--bg-end));
-            color: #ffffff;
+            color: #fffffffff;
             min-height: 100vh;
             display: flex;
             justify-content: center;
