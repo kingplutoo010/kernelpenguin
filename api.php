@@ -1,5 +1,6 @@
 <?php
 session_start();
+#test
 header('Content-Type: application/json');
 require 'config.php';
 
