@@ -1,0 +1,14 @@
+name: GitHub Actions Demo 
+run-name: Testing out GitHub Actions Event Trigger  
+on: 
+  push: 
+    branches: 
+      - master 
+  pull_request: 
+    branches:
+      - master 
+jobs: 
+  Basic-Workflow: 
+    runs-on: ubuntu-latest 
+    steps: 
+      - run: echo " Job is executing as part of Basic workflow"
