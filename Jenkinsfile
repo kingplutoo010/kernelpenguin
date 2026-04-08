@@ -56,6 +56,12 @@ pipeline
 				{
 					echo 'Supar Final Success'
 				}
+			stage('Supar dupper Final Success')
+			{
+				steps
+				{
+					echo 'Supar dupper Final Success'
+				}
 			}
 		}
 }
