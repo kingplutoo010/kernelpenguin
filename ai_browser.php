@@ -56,7 +56,7 @@
 
         .response-textbox {
             background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 3255, 0.1);
             border-radius: 8px;
             padding: 20px;
             font-size: 1.1rem;
