@@ -29,7 +29,7 @@ if (isset($_SESSION['user_id'])) {
       background: #2e2e3e;
       padding: 2rem;
       border-radius: 12px;
-      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 1.5);
       width: 350px;
       text-align: center;
     }
