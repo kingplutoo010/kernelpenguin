@@ -7,7 +7,7 @@
   <style>
     :root {
       --note-width: 250px;
-      --note-height: 250px;
+      --note-height: 2500px;
       --popup-bg: #1e1e2f;
       --text-color: #ffffff;
       --input-bg: #2c2c3a;
